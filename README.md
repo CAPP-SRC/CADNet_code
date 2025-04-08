@@ -1,6 +1,8 @@
 # CADNet
 Code for **Graph Representation of 3D CAD models for Machining Feature Recognition with Deep Learning** paper. This is an approach using graph neural networks to learning from planar B-Rep CAD models. In the paper, focus was given towards the machining feature recognition task. Here, faces in B-Rep models were classified as different machining feature classes.
 
+The original code can be found [here](https://gitlab.com/qub_femg/machine-learning/cadnet).
+
 The original paper can be found [here](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2020/84003/V11AT11A003/1090197).
 
 MFCAD dataset can be found [here](https://github.com/hducg/MFCAD).
